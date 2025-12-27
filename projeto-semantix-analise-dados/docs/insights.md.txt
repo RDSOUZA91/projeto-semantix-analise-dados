@@ -1,0 +1,19 @@
+# 4. Relatório de Insights
+
+## Principais Achados
+
+A análise dos dados de transações financeiras revelou padrões importantes relacionados aos meios de pagamento e aos status das transações.
+
+- O cartão de crédito concentra a maior parte do valor total das transações aprovadas.
+- O boleto bancário apresenta maior incidência de não pagamento e falhas.
+- Transações com status de erro impactam negativamente a eficiência operacional.
+
+## Relevância para o Negócio
+
+Os insights obtidos permitem que empresas tomem decisões mais estratégicas, priorizando meios de pagamento com maior taxa de sucesso e reduzindo perdas financeiras.
+
+## Sugestões de Ações
+
+- Incentivar o uso de meios de pagamento com maior taxa de aprovação.
+- Monitorar continuamente transações com erro ou não autorizadas.
+- Utilizar dashboards para acompanhamento em tempo real dos indicadores financeiros.
