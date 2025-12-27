@@ -1,0 +1,13 @@
+# 1. Descrição do Problema
+
+A inadimplência e as falhas em transações financeiras representam um desafio relevante para empresas que utilizam meios de pagamento digitais. Transações não autorizadas, pagamentos com erro ou boletos não pagos impactam diretamente o fluxo de caixa, a experiência do cliente e a eficiência operacional.
+
+Com o crescimento do comércio eletrônico, torna-se essencial analisar os dados transacionais para identificar padrões de falha, entender o desempenho dos meios de pagamento e apoiar decisões estratégicas baseadas em dados.
+
+## Importância e Relevância
+
+Esse problema é relevante no contexto atual, pois afeta diretamente a receita das empresas, aumenta custos operacionais e compromete a confiança dos clientes nos sistemas de pagamento.
+
+## Como a Análise de Dados Pode Ajudar
+
+A análise de dados permite identificar meios de pagamento mais eficientes, compreender as principais causas de falha, monitorar indicadores financeiros e apoiar a tomada de decisão.
